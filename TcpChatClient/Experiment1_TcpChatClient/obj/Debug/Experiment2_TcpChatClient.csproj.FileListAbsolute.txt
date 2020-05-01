@@ -1,0 +1,9 @@
+E:\C#Project\Experiment2_TcpChatClient\Experiment1_TcpChatClient\bin\Debug\Experiment1_TcpChatClient.exe
+E:\C#Project\Experiment2_TcpChatClient\Experiment1_TcpChatClient\bin\Debug\Experiment1_TcpChatClient.pdb
+E:\C#Project\Experiment2_TcpChatClient\Experiment1_TcpChatClient\obj\Debug\Experiment2_TcpChatClient.csprojAssemblyReference.cache
+E:\C#Project\Experiment2_TcpChatClient\Experiment1_TcpChatClient\obj\Debug\Experiment1_TcpChatClient.Form1.resources
+E:\C#Project\Experiment2_TcpChatClient\Experiment1_TcpChatClient\obj\Debug\Experiment1_TcpChatClient.Properties.Resources.resources
+E:\C#Project\Experiment2_TcpChatClient\Experiment1_TcpChatClient\obj\Debug\Experiment2_TcpChatClient.csproj.GenerateResource.cache
+E:\C#Project\Experiment2_TcpChatClient\Experiment1_TcpChatClient\obj\Debug\Experiment2_TcpChatClient.csproj.CoreCompileInputs.cache
+E:\C#Project\Experiment2_TcpChatClient\Experiment1_TcpChatClient\obj\Debug\Experiment1_TcpChatClient.exe
+E:\C#Project\Experiment2_TcpChatClient\Experiment1_TcpChatClient\obj\Debug\Experiment1_TcpChatClient.pdb

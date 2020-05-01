@@ -1,0 +1,9 @@
+E:\C#Project\Experiment2_TcpChatServer\Experiment2_TcpChatServer\bin\Debug\Experiment2_TcpChatServer.exe
+E:\C#Project\Experiment2_TcpChatServer\Experiment2_TcpChatServer\bin\Debug\Experiment2_TcpChatServer.pdb
+E:\C#Project\Experiment2_TcpChatServer\Experiment2_TcpChatServer\obj\Debug\Experiment2_TcpChatServer.csprojAssemblyReference.cache
+E:\C#Project\Experiment2_TcpChatServer\Experiment2_TcpChatServer\obj\Debug\Experiment2_TcpChatServer.Form1.resources
+E:\C#Project\Experiment2_TcpChatServer\Experiment2_TcpChatServer\obj\Debug\Experiment2_TcpChatServer.Properties.Resources.resources
+E:\C#Project\Experiment2_TcpChatServer\Experiment2_TcpChatServer\obj\Debug\Experiment2_TcpChatServer.csproj.GenerateResource.cache
+E:\C#Project\Experiment2_TcpChatServer\Experiment2_TcpChatServer\obj\Debug\Experiment2_TcpChatServer.csproj.CoreCompileInputs.cache
+E:\C#Project\Experiment2_TcpChatServer\Experiment2_TcpChatServer\obj\Debug\Experiment2_TcpChatServer.exe
+E:\C#Project\Experiment2_TcpChatServer\Experiment2_TcpChatServer\obj\Debug\Experiment2_TcpChatServer.pdb
